@@ -1,2 +1,2 @@
-#minos good
+# minos good
 # everything else bad
